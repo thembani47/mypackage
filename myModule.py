@@ -1,6 +1,5 @@
 """In this program we will see how to accomplish the basic calculator functionalities of a calculator using a python program.
 Here we create individual functions to carry out the calculations and return the result.
-Also user input is accepted along with the choice of operator.
 
 """
 # A function to add two numbers
